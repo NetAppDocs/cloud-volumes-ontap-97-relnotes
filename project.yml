@@ -42,8 +42,6 @@ sidebar:
           url: /reference-limitations-azure-97.html
         - title: Limitations in GCP
           url: /reference-limitations-gcp-97.html
-    - title: Cloud provider integrations
-      url: /reference-provider-integrations-97.html
     - title: Legal notices
       url: /reference-legal-notices.html
 homepage:
