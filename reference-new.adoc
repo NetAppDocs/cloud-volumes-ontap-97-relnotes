@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: reference-new-97.html
+permalink: reference-new.html
 keywords: what's new, new, features, release notes, enhancements
 summary: Cloud Volumes ONTAP 9.7 includes several new features and enhancements.
 ---
@@ -104,7 +104,7 @@ The 9.7 P3 patch release for Cloud Volumes ONTAP is now available through Cloud 
 
 The 9.7 P2 patch release for Cloud Volumes ONTAP is now available through Cloud Manager 3.8 and later. Cloud Manager will prompt you to upgrade your existing systems to this patch release. https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.7P2[View the list of bugs fixed in the P2 patch^] (NetApp Support Site login required).
 
-== Increased disk capacity in GCP (13 Mar 2020)
+== Increased disk capacity in Google Cloud (13 Mar 2020)
 
 You can now attach up to 256 TiB of persistent disks to Cloud Volumes ONTAP when using the Premium or BYOL licenses in Google Cloud. This is up from 64 TB.
 
@@ -112,8 +112,8 @@ Just like before, you can reach the 368 TiB maximum system capacity for Premium 
 
 The maximum number of data disks per system has also increased to 124 disks.
 
-*	link:reference-configs-gcp-97.html[Learn more about supported configurations for Cloud Volumes ONTAP in GCP]
-* link:reference-limits-gcp-97.html[Review storage limits in GCP]
+*	link:reference-configs-gcp.html[Learn more about supported configurations for Cloud Volumes ONTAP in Google Cloud]
+* link:reference-limits-gcp.html[Review storage limits in Google Cloud]
 
 == 9.7 P1 (6 Mar 2020)
 
@@ -141,13 +141,13 @@ Several new EC2 instance types are now supported with Cloud Volumes ONTAP 9.7 wh
 
 https://aws.amazon.com/ec2/instance-types/[Learn more about these EC2 instance types^].
 
-link:reference-configs-aws-97.html[Learn more about supported 9.7 configurations in AWS].
+link:reference-configs-aws.html[Learn more about supported 9.7 configurations in AWS].
 
 === Supported data disks
 
 One less data disk is now supported for c5, m5, and r5 instances. For single node systems, 22 data disks are supported. For HA pairs, 19 data disks are supported per node.
 
-link:reference-limits-aws-97.html[Learn more about storage limits in AWS].
+link:reference-limits-aws.html[Learn more about storage limits in AWS].
 
 == Support for DS15_v2 in Azure (12 Feb 2020)
 
@@ -155,11 +155,11 @@ Cloud Volumes ONTAP is now supported with the DS15_v2 virtual machine type in Az
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes-memory#dsv2-series-11-15[Learn more about the DSv2 series^].
 
-link:reference-configs-azure-97.html[Learn more about supported 9.7 configurations in Azure].
+link:reference-configs-azure.html[Learn more about supported 9.7 configurations in Azure].
 
 == 9.7 GA (10 Feb 2020)
 
-The General Availability (GA) release of Cloud Volumes ONTAP 9.7 is now available in AWS and GCP. The GA release includes bug fixes. Cloud Manager will prompt you to upgrade your existing systems to this release.
+The General Availability (GA) release of Cloud Volumes ONTAP 9.7 is now available in AWS and Google Cloud. The GA release includes bug fixes. Cloud Manager will prompt you to upgrade your existing systems to this release.
 
 == 9.7 D1 for Azure (29 Jan 2020)
 

@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
-permalink: reference-configs-aws-97.html
+permalink: reference-configs-aws.html
 keywords: ec2, instance, type, explore, standard, premium, byol, capacity, maximum, virtual machine, Cloud Volumes ONTAP, supported, configurations, sizes, disks
 summary: Several Cloud Volumes ONTAP configurations are supported in AWS.
 ---
 
-= Supported configurations for Cloud Volumes ONTAP 9.7 in AWS
+= Supported configurations in AWS
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -154,7 +154,7 @@ a|
 
 Notes:
 
-. For some configurations, disk limits prevent you from reaching the capacity limit by using disks alone. In those cases, you can reach the capacity limit by https://docs.netapp.com/us-en/occm/concept_data_tiering.html[tiering inactive data to object storage^]. For information about disk limits, refer to link:reference-limits-aws-97.html[storage limits].
+. For some configurations, disk limits prevent you from reaching the capacity limit by using disks alone. In those cases, you can reach the capacity limit by https://docs.netapp.com/us-en/occm/concept_data_tiering.html[tiering inactive data to object storage^]. For information about disk limits, refer to link:reference-limits-aws.html[storage limits].
 
 . When you choose an EC2 instance type, you can specify whether it is a shared instance or a dedicated instance.
 
