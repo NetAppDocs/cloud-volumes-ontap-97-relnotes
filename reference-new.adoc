@@ -29,7 +29,7 @@ The number of licenses that you can purchase for a single node system or HA pair
 
 Be aware that disk limits can prevent you from reaching the capacity limit by using disks alone. You can go beyond the disk limit by https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-data-tiering.html[tiering inactive data to object storage^]. For information about disk limits, refer to the storage limits in these release notes.
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-managing-licenses.html[Learn how to add additional system licenses to Cloud Volumes ONTAP^].
+https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-manage-node-licenses.html[Learn how to add additional system licenses to Cloud Volumes ONTAP^].
 
 == 9.7 P5 in AWS (27 July 2020)
 
