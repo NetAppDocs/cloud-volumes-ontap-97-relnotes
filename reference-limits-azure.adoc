@@ -82,13 +82,13 @@ NOTE: For some VM types, you'll need several BYOL licenses to reach the max syst
 2+| | *Disks alone* | *Disks + data tiering* | *Disks alone* | *Disks + data tiering*
 
 | DS3_v2 | 13 | 368 TiB | 368 TiB | 416 TiB | 368 TiB x each license
-| DS4_v2 | 29 | 368 TiB | 368 TiB | 928 TiB | 368 TiB x each license
-| DS5_v2 | 61 | 368 TiB | 368 TiB | 1.95 PiB | 368 TiB x each license
-| DS13_v2 | 29 | 368 TiB | 368 TiB | 928 TiB | 368 TiB x each license
-| DS14_v2 | 61 | 368 TiB | 368 TiB | 1.95 PiB | 368 TiB x each license
-| DS15_v2 | 61 | 368 TiB | 368 TiB | 1.95 PiB | 368 TiB x each license
-| E32s_v3 | 29 | 368 TiB | 368 TiB | 928 TiB | 368 TiB x each license
-| E48s_v3 | 29 | 368 TiB | 368 TiB | 928 TiB | 368 TiB x each license
+| DS4_v2 | 29 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
+| DS5_v2 | 61 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
+| DS13_v2 | 29 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
+| DS14_v2 | 61 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
+| DS15_v2 | 61 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
+| E32s_v3 | 29 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
+| E48s_v3 | 29 | 368 TiB | 368 TiB | 896 TiB | 368 TiB x each license
 | L8s_v2 | 13 | 368 TiB | 368 TiB | 416 TiB | 368 TiB x each license
 |===
 
@@ -102,13 +102,13 @@ NOTE: For some VM types, you'll need several BYOL licenses to reach the max syst
 | Max system capacity with disks and data tiering
 
 | DS3_v2 | 13 | 416 TiB | 2 PiB
-| DS4_v2 | 29 | 928 TiB | 2 PiB
-| DS5_v2 | 61 | 1.95 PiB | 2 PiB
-| DS13_v2 | 29 | 928 TiB | 2 PiB
-| DS14_v2 | 61 | 1.95 PiB | 2 PiB
-| DS15_v2 | 61 | 1.95 PiB | 2 PiB
-| E32s_v3 | 29 | 928 TiB | 2 PiB
-| E48s_v3 | 29 | 928 TiB | 2 PiB
+| DS4_v2 | 29 | 896 TiB | 2 PiB
+| DS5_v2 | 61 | 896 TiB | 2 PiB
+| DS13_v2 | 29 | 896 TiB | 2 PiB
+| DS14_v2 | 61 | 896 TiB | 2 PiB
+| DS15_v2 | 61 | 896 TiB | 2 PiB
+| E32s_v3 | 29 | 896 TiB | 2 PiB
+| E48s_v3 | 29 | 896 TiB | 2 PiB
 | L8s_v2 | 13 | 416 TiB | 2 PiB
 |===
 
