@@ -21,16 +21,6 @@ The following limitations apply to Cloud Volumes ONTAP in all cloud providers: A
 
 The maximum number of concurrent SnapMirror or SnapVault transfers for Cloud Volumes ONTAP is 100 per node, regardless of the instance type or machine type.
 
-== Support in China regions
-
-Cloud Volumes ONTAP is supported in China regions as follows.
-
-*	Cloud Volumes ONTAP 9.6 is supported in AWS China regions.
-* Single node systems are supported.
-*	Licenses purchased directly from NetApp are supported.
-
-All other locations, versions, configurations, and licenses aren't supported.
-
 == Cloud Volumes ONTAP supports Reserved and On-demand VM instances
 
 Cloud Volumes ONTAP can run on either a Reserved or On-demand VM instance from your cloud provider. Other types of VM instances aren't supported.
