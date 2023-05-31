@@ -15,7 +15,7 @@ summary: Cloud Volumes ONTAP 9.7 includes several new features and enhancements.
 [.lead]
 Cloud Volumes ONTAP 9.7 includes several new features and enhancements.
 
-Additional features and enhancements are also introduced in the latest versions of Cloud Manager. See the https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Cloud Manager Release Notes^] for details.
+Additional features and enhancements are also introduced in the latest versions of Cloud Manager. See the https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html[Cloud Manager Release Notes^] for details.
 
 == 9.7 P6 (15 Aug 2020)
 
@@ -27,9 +27,9 @@ You can now purchase multiple licenses for a Cloud Volumes ONTAP BYOL system to 
 
 The number of licenses that you can purchase for a single node system or HA pair is unlimited.
 
-Be aware that disk limits can prevent you from reaching the capacity limit by using disks alone. You can go beyond the disk limit by https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-data-tiering.html[tiering inactive data to object storage^]. For information about disk limits, refer to the storage limits in these release notes.
+Be aware that disk limits can prevent you from reaching the capacity limit by using disks alone. You can go beyond the disk limit by https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-data-tiering.html[tiering inactive data to object storage^]. For information about disk limits, refer to the storage limits in these release notes.
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-manage-node-licenses.html[Learn how to add additional system licenses to Cloud Volumes ONTAP^].
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-node-licenses.html[Learn how to add additional system licenses to Cloud Volumes ONTAP^].
 
 == 9.7 P5 in AWS (27 July 2020)
 
@@ -135,7 +135,7 @@ Several new EC2 instance types are now supported with Cloud Volumes ONTAP 9.7 wh
 * r5.8xlarge
 * r5.12xlarge ^2^
 
-^1^ These instance types include local NVMe storage, which Cloud Volumes ONTAP uses as _Flash Cache_. https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-flash-cache.html[Learn more^].
+^1^ These instance types include local NVMe storage, which Cloud Volumes ONTAP uses as _Flash Cache_. https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-flash-cache.html[Learn more^].
 
 ^2^ The r5.12xlarge instance type has a known limitation with supportability. If a node unexpectedly reboots due to a panic, the system might not collect core files used to troubleshoot and root cause the problem. The customer accepts the risks and limited support terms and bears all support responsibility if this condition occurs.
 
@@ -186,7 +186,7 @@ Flash Cache speeds access to data through real-time intelligent caching of recen
 
 Deploy new systems using this VM type or modify existing systems to use this VM type and you'll automatically take advantage of Flash Cache.
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-flash-cache.html[Learn more about enabling Flash Cache on Cloud Volumes ONTAP, including a limitation with data compression^].
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-flash-cache.html[Learn more about enabling Flash Cache on Cloud Volumes ONTAP, including a limitation with data compression^].
 
 === Fix for Azure NIC detach events
 
@@ -198,7 +198,7 @@ This release addresses an issue with Cloud Volumes ONTAP node reboots from Azure
 
 * You can upgrade to Cloud Volumes ONTAP 9.7 from the 9.6 release. Cloud Manager will prompt you to upgrade your existing Cloud Volumes ONTAP 9.6 systems to the 9.7 release.
 +
-http://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-updating-ontap-cloud.html[Learn how to upgrade when Cloud Manager notifies you^].
+http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap-cloud.html[Learn how to upgrade when Cloud Manager notifies you^].
 
 * The upgrade of a single node system takes the system offline for up to 25 minutes, during which I/O is interrupted.
 
