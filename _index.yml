@@ -2,7 +2,7 @@ indexpage:
   title: Cloud Volumes ONTAP 9.7 Release Notes
   lead: These release notes describe new features, limitations, and known issues for Cloud Volumes ONTAP 9.7.
   summary: These release notes describe new features, limitations, and known issues for Cloud Volumes ONTAP 9.7.
-  keywords: ontap, documentation, e-series, cloud, 97
+  keywords: cloud volumes ontap, licensing, security, release notes, storage, data protection, configuration, upgrade, encryption, cvo, 97
   tiles:
     - title: Get started
       links:
