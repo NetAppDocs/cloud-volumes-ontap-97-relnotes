@@ -90,7 +90,7 @@ NetApp continues to support Cloud Volumes ONTAP in the public Germany regions:
 * Germany North (Public)
 * Germany West Central (Public)
 
-https://cloud.netapp.com/bluexp-volumes-global-regions[See the full list of supported Azure regions^].
+https://bluexp.netapp.com/cloud-volumes-global-regions[See the full list of supported Azure regions^].
 
 == 9.7 P4 (2 June 2020)
 
