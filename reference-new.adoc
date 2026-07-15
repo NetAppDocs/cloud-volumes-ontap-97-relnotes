@@ -169,7 +169,7 @@ We discovered an issue with Cloud Volumes ONTAP 9.7 and earlier, where Cloud Vol
 
 This issue is fixed in 9.7 D1 (and later). We highly recommend upgrading to the latest Cloud Volumes ONTAP version as soon as possible.
 
-If you have any questions, please contact us using the in-product chat or at https://www.netapp.com/us/contact-us/support.aspx.
+If you have any questions, please contact us using the in-product chat or at https://www.netapp.com/company/contact-us/support/
 
 == 9.7 RC1 (16 Dec 2019)
 
